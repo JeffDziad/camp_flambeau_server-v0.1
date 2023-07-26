@@ -1,0 +1,83 @@
+[
+{
+"title": "Nice cabin in the Northwoods",
+"rating": "5/5",
+"stayed": "Stayed Sep 2022",
+"user": "Leeann T.Metamora, Illinois",
+"content": "Had a wonderful time! So many nice amenities and small special touches at this property. Neil and Lynn were very accommodating. Loved the location with it being close to town and some nice biking and hiking trails.",
+"published": "Published Sep 26, 2022",
+"response": ""
+},
+{
+"title": "First trip to Minocqua didn't disappoint",
+"rating": "5/5",
+"stayed": "Stayed Sep 2022",
+"user": "Erin D.",
+"content": "Neil is an excellent host--great communication, the property is extremely well maintained, and the rental process couldn't have been easier. It's a great rental and would definitely recommend!",
+"published": "Published Sep 13, 2022",
+"response": ""
+},
+{
+"title": "Met all of our needs! But check ahead if bringing a boat.",
+"rating": "5/5",
+"stayed": "Stayed Aug 2022",
+"user": "Andre P.",
+"content": "I brought my wife and two children (10, 14) and our dog Oakley to this lakefront property August 7-13th and it was our first time in this area. First, the cottage had everything we needed. There was plenty of space for the 4 of us, with a comfortable master room and then a side room with bunk beds. The living room was comfortable and adjoining kitchen was well stocked with cooking supplies. There is even a dishwasher. We spent our days hiking (Raven trail) or exploring downtown Minocqua or Woodruff. Mini Golfing and Go-Carts. My wife would also go to the casino several times, which is only 6 minutes away. We thought the location was perfect. You are down a little private drive, but are 15-20 minutes from town, groceries, food, etc. We ate out about twice a day (and were so looking forward to that)...and tried many of local establishments. There is a nice sized TV that has access to HULU, Disney, Netflix, etc if you have accounts (and we did). Internet was great. We spent time on the water of course and I had brought my 17ft Lund to do fishing and tubing. The launch is very nice on Fence Lake and is across the lake. The cottage's dock arrangement (shaped like an L) did make some of this challenging and I had to be creative every time I used my boat to get it to fit on the end of the dock because of the pontoon that is there and that the water is very shallow at the sides of the dock. In the end, we made it work, but I recommend checking with the owner if you have a boat of any size first. Overall, we loved our stay and owner was very responsive (like when we could not find tennis rackets). Made wonderful memories.",
+"published": "Published Aug 13, 2022",
+"response": ""
+},
+{
+"title": "Review of Camp Flambeau",
+"rating": "5/5",
+"stayed": "Stayed Jun 2022",
+"user": "Briana B.",
+"content": "Renting this property was perfect for our week getaway. Everything we needed was provided, and Neil was an excellent host. The location was perfect for us and we would definitely consider renting again!",
+"published": "Published Jun 27, 2022",
+"response": "Thanks Briana, you were wonderful guests!"
+},
+{
+"title": "Overall good experience",
+"rating": "5/5",
+"stayed": "Stayed Oct 2021",
+"user": "James D.",
+"content": "Very clean and well stocked with basic needs Neil was very welcoming and easy to deal with We enjoyed our stay and would return if we were to stay in the area",
+"published": "Published Oct 14, 2021",
+"response": ""
+},
+{
+"title": "nice cottage on Fence Lake",
+"rating": "5/5",
+"stayed": "Stayed Sep 2021",
+"user": "Steve W.",
+"content": "perfect fall getaway to northern Wisconsin....beautiful fall colors, quiet lake without the summer crowds...well equipped kitchen and charcoal grill so we could prepare all our meals.",
+"published": "Published Oct 3, 2021",
+"response": ""
+},
+{
+"title": "Great place",
+"rating": "5/5",
+"stayed": "Stayed Sep 2021",
+"user": "Eric M.",
+"content": "Great place , I would recommend it to others.",
+"published": "Published Sep 30, 2021",
+"response": ""
+},
+{
+"title": "Very Satisfied",
+"rating": "5/5",
+"stayed": "Stayed Sep 2021",
+"user": "Jane B.",
+"content": "Place was clean and neat and more impressive than the photos. Neil was a great host. So accommodating. We didn't need to take the things noted in our reservation list as most all of it was supplied. Didn't know that we would have great Internet service and streaming TV. The Fence Lake chain was the highlight for us. Enjoyed nature and wildlife. . . . eagles and loons. Loved that we could keep the boat on the dock and launch it nearby. Other highlights included the beautiful sunsets. Sunsets and wine went very well together. :)",
+"published": "Published Sep 10, 2021",
+"response": "We\u2019re so very happy that you enjoyed your stay on Fence Lake."
+},
+{
+"title": "Family Getaway",
+"rating": "5/5",
+"stayed": "Stayed Aug 2021",
+"user": "Holly B.Green Bay, Wisconsin",
+"content": "My family of 6, with our dog, enjoyed our week get-a-way. The cabin was very cozy and fit us well. Everything we could possibly need was there available for us to use. We even enjoyed some games during the rain. The water's clear and shallow off the dock for younger kids. My girls enjoyed catching crawfish. MY older boys also caught some nice size bass right off the dock. Location is great. Neil was great to work with and very responsive when it came to questions. We'd definitely go back.",
+"published": "Published Aug 18, 2021",
+"response": "Thank you Holly and Cisco. You were wonderful guests. Come back again!!"
+}
+]

@@ -1,0 +1,92 @@
+[
+{
+"title": "Peaceful Getaway by the Lake",
+"rating": "5/5",
+"stayed": "Stayed Jun 2023",
+"user": "We spent a wonderful week here in June. There is a lovely view of the lake from the front windows. Chairs are provided to sit outside in the shade and look at the water. We used the fire pit almost every night. The cabin is nicely furnished and a great place to hang out and read and watch streaming shows. The beds are very comfortable. There is a great collection of board games. Neil and Lynne were gracious hosts and very responsive to questions. Highly recommend!",
+"content": "",
+"published": "Published Jun 27, 2023",
+"response": ""
+},
+{
+"title": "Very clean property. Host was fantastic in responding.",
+"rating": "5/5",
+"stayed": "Stayed Jan 2023",
+"user": "Loretta M.",
+"content": "Nice up north property near trails. Clean and modern. Please remind guests to bring towels. Not provided.",
+"published": "Published Feb 1, 2023",
+"response": "Thanks Loretta. We will be providing emergency towels in the future."
+},
+{
+"title": "Cozy family getaway",
+"rating": "5/5",
+"stayed": "Stayed Jan 2023",
+"user": "Brad H.",
+"content": "Great, cozy and quiet spot close to Minocqua Winter park. Very clean!",
+"published": "Published Jan 17, 2023",
+"response": "Brad, I'm glad you and your family had a great time."
+},
+{
+"title": "Just lovely",
+"rating": "5/5",
+"stayed": "Stayed Oct 2022",
+"user": "Jayda M.Oshkosh Wisconsin",
+"content": "Autumn is the perfect time to visit the Northwoods of Wisconsin. Neil\u2019s cabin works perfectly for us.",
+"published": "Published Oct 17, 2022",
+"response": "JAyda, glad you enjoyed yourself. You're welcome back anytime."
+},
+{
+"title": "October fishing trip",
+"rating": "5/5",
+"stayed": "Stayed Oct 2022",
+"user": "Mark G.",
+"content": "An excellent experience. Cabin is clean, well equipped and meets my needs well.",
+"published": "Published Oct 15, 2022",
+"response": ""
+},
+{
+"title": "Perfect up north cottage",
+"rating": "5/5",
+"stayed": "Stayed Sep 2022",
+"user": "Whitney W.",
+"content": "Extremely clean. East check in and checkout. Great experience!",
+"published": "Published Sep 27, 2022",
+"response": ""
+},
+{
+"title": "Splendid",
+"rating": "5/5",
+"stayed": "Stayed Aug 2022",
+"user": "AUTMhy8AAACqAQICAHiE7BwjXMYLza9L3faho8yzWdPKNpD9To7iRkL0Kq+g9gGsdG182AEqeC6aZC1NoPBkAAAAcDBuBgkqhkiG9w0BBwagYTBfAgEAMFoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM3opNW7GEOsWnW5c7AgEQgC1OTnvQrnM0XorDLkJpJl1IPhzGzm5a+QOYmH/5XP0vy3Lun6IuNirBmrfA79738hWg8+LoOvNklRGFS6No4kmW72M6nwli+ZBpXTi47Zs08Nw A.",
+"content": "This is our second time renting this property and both experiences have been wonderful. We look forward to spending next year with them.",
+"published": "Published Aug 21, 2022",
+"response": ""
+},
+{
+"title": "Cute, comfortable cabin on a beautiful lake",
+"rating": "5/5",
+"stayed": "Stayed Aug 2022",
+"user": "Tammy P.",
+"content": "The cabin is cute, welcoming, comfortable, and clean. The lake is beautiful and clear! We very much enjoyed our stay and appreciated the kayaks and paddle boat available there. We also took advantage of the tennis court while we were there. We found everything as described and a few extras in books, travel magazines, maps, and games to use while we were there. We appreciated the cabin and the host and would highly recommend it! It was hard to leave!",
+"published": "Published Aug 13, 2022",
+"response": ""
+},
+{
+"title": "Wonderful Getaway!",
+"rating": "5/5",
+"stayed": "Stayed Jul 2022",
+"user": "Valerie F.Sugar grove",
+"content": "We stayed with our dogs and enjoyed a relaxing time with many options to choose from. We fished nearby lakes, hiked on trail right across highway, enjoyed the kayaks and fantastic sunsets! We had an awesome fire at firepit too.. The kitchen had everything we needed and the bed was comfortable. Thanks for providing us a place to enjoy the beauty of the Northwoods!",
+"published": "Published Jul 23, 2022",
+"response": ""
+},
+{
+"title": "May fishing trip stay at Goldfinch lane",
+"rating": "5/5",
+"stayed": "Stayed May 2022",
+"user": "Mark G.",
+"content": "This rental was a very positive experience. The cabin is well kept and just the right size. The area is quiet and peaceful.",
+"published": "Published May 28, 2022",
+"response": ""
+}
+]
